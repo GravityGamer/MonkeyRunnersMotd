@@ -1,1 +1,1 @@
-Im done my break and refreshed so I will be working on a big update now!
+I have added authentication so the game will not get hacked anymore!
